@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+pypdf
+unstructured
+python-magic
+sentence-transformers
+python-docx
+unstructured[pptx]
+
+
