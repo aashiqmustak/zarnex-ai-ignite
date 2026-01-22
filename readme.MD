@@ -1,1 +1,4 @@
-hi this is ai-ignite
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
